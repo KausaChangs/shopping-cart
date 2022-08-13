@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "myName",
+    "price": 10.99,
+    "imgUrl": "/images/8vjVET.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Poetry Books",
+    "price": 10.99,
+    "imgUrl": "/images/75b26ed941bcf9403d6a1fe7fe06baf5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro",
+    "price": 18.99,
+    "imgUrl": "/images/161591-laptops-review-apple-macbook-pro-review-image7-7y54imelrt.jpg0.99"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Cake",
+    "price": 6.99,
+    "imgUrl": "/images/ece3x2xfpty41.webp"
+  },
+  {
+    "id": 5,
+    "name": "Vans Classics",
+    "price": 14.99,
+    "imgUrl": "/images/vans-la-mesa-puerca-15.webpurl"
+  }
+]
