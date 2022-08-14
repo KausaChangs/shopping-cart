@@ -1,31 +1,31 @@
 [
   {
     "id": 1,
-    "name": "myName",
+    "name": "Head sock",
     "price": 10.99,
     "imgUrl": "/images/IMG-20220807-WA0048.jpg"
   },
   {
     "id": 2,
-    "name": "Poetry Books",
+    "name": "Floral crochet top",
     "price": 10.99,
     "imgUrl": "/images/IMG-20220807-WA0051.jpg"
   },
   {
     "id": 3,
-    "name": "MacBook Pro",
+    "name": "Peek-a-boob top",
     "price": 18.99,
     "imgUrl": "/images/IMG-20220807-WA0042.jpg"
   },
   {
     "id": 4,
-    "name": "Chocolate Cake",
+    "name": "Turtle-neck top",
     "price": 6.99,
     "imgUrl": "/images/IMG-20220807-WA0047.jpg"
   },
   {
     "id": 5,
-    "name": "Vans Classics",
+    "name": "Crochet top",
     "price": 14.99,
     "imgUrl": "/images/IMG-20220807-WA0050.jpg"
   }
